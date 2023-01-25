@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Rodrigues @</h1>
+<h1 align="center">Hi 🌫️ , I'm Pedro Rodrigues 🌫️ </h1>
 <h3 align="center">I’m a pretty straightforward guy, currently looking for a job and new projects, Back and FrontEnd Junior Developer!! Through life I’ve learned that if you put in the work and effort you can accomplish a lot!! Most recently I've took on</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaddy3138&label=Profile%20views&color=0e75b6&style=flat" alt="shaddy3138" /> </p>
