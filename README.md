@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🌫️ , I'm Pedro Rodrigues 🌫️ </h1>
-<h3 align="center">I’m a pretty straightforward guy, currently looking for a job and new projects, Back and FrontEnd Junior Developer!! Through life I’ve learned that if you put in the work and effort you can accomplish a lot!! Most recently I've took on</h3>
+<h3 align="center">I’m a pretty straightforward guy, currently looking for a job and new projects, Back and FrontEnd Junior Developer!! Through life I’ve learned that if you put in the work and effort you can accomplish a lot!!</h3>
 
 <p><div align="center" dir="auto">
   <a  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaddy3138&show_icons=true&locale=en&layout=compact" alt="shaddy3138" /></p>
