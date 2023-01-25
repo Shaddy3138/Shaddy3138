@@ -1,7 +1,11 @@
 <h1 align="center">Hi 🌫️ , I'm Pedro Rodrigues 🌫️ </h1>
 <h3 align="center">I’m a pretty straightforward guy, currently looking for a job and new projects, Back and FrontEnd Junior Developer!! Through life I’ve learned that if you put in the work and effort you can accomplish a lot!! Most recently I've took on</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaddy3138&show_icons=true&locale=en&layout=compact" alt="shaddy3138" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaddy3138&show_icons=true&locale=en" alt="shaddy3138" /> </p>
+<p><div align="center" dir="auto">
+  <a href="https://github.com/epicnessinha">
+ <img width="400" height="180em" src="https://camo.githubusercontent.com/8a577a229f77ec2fd35ee09b3c574f34d794b0ecd5c862209482d76782a20571/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d657069636e657373696e68612673686f775f69636f6e733d74727565267468656d653d616c676f6c696126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=shaddy3138&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;">
+  <img width="400" height="180em" src="https://camo.githubusercontent.com/ad8c806c9a9f9271914137a6d18ea2b2c1709043b7411e6c8c56602a89cb8edd/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d657069636e657373696e6861266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961" data-canonical-src="https://github-readme-stats.vercel.app/api?username=shaddy3138&show_icons=true&locale=en" style="max-width: 100%;">
+</a></div></p>
 
 </p>
 <h3 align="center">Languages and Tools:</h3>
@@ -13,3 +17,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fulldevpedror/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fulldevpedror/" height="30" width="40" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaddy3138&label=Profile%20views&color=0e75b6&style=flat" alt="shaddy3138" /> </p>
+
+<div align="center" dir="auto">
+  <a href="https://github.com/epicnessinha">
+ <img width="400" height="180em" src="https://camo.githubusercontent.com/8a577a229f77ec2fd35ee09b3c574f34d794b0ecd5c862209482d76782a20571/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d657069636e657373696e68612673686f775f69636f6e733d74727565267468656d653d616c676f6c696126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=shaddy3138&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;">
+  <img width="400" height="180em" src="https://camo.githubusercontent.com/ad8c806c9a9f9271914137a6d18ea2b2c1709043b7411e6c8c56602a89cb8edd/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d657069636e657373696e6861266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961" data-canonical-src="https://github-readme-stats.vercel.app/api?username=shaddy3138&show_icons=true&locale=en" style="max-width: 100%;">
+</a></div>
